@@ -23,4 +23,6 @@ window.onload = function () {
     const observer = new MutationObserver(showOrHideEmptyMessage);
 
     observer.observe(targetNode, config);
+
+    showOrHideEmptyMessage();
 };
