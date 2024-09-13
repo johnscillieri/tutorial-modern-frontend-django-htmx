@@ -9,3 +9,13 @@ log/*.log
 tmp/**
 node_modules/
 .sass-cache
+
+
+.venv/
+venv/
+db.sqlite3
+tests/screenshots/
+__pycache__/
+*.pyc
+test-results/
+.pytest_cache/
