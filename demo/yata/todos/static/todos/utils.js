@@ -15,9 +15,7 @@ window.onload = function () {
     const targetNode = document.getElementById("todo_items");
 
     const config = {
-        attributes: true,
         childList: true,
-        subtree: true,
     };
 
     const observer = new MutationObserver(showOrHideEmptyMessage);
