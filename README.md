@@ -5,7 +5,7 @@ This tutorial was created by the [Guild of Educators](https://guildofeducators.c
 If you are interested in the art and science of teaching tech (especially Python) then you are welcome to join. 
 
 - Pro educators with years of experience are welcome, come and share your skills!
-- New educators, occasional volunteer educators, people who might want to get into education one day, and the curious are also welcome 
+- New educators, occasional volunteer educators, people who might want to get into education one day, and the curious are also more than welcome 
 
 We are a community. We share skills and experiences. Our goal is to empower educators.
 
@@ -14,8 +14,6 @@ We are a community. We share skills and experiences. Our goal is to empower educ
 If you find this useful, or would like to help us build the skills of educators, then we would very much appreciate it if you could make a donation to support our work.  It's completely fine if you don't make a donation, but we would really appreciate it!
 
 Find out more [here](https://guildofeducators.com/support_us)
-
-Cash donations are also very welcome!
 
 ## Tell us who you are please
 
