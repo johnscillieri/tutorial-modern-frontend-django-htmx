@@ -28,10 +28,13 @@
 			<section>
 				<h2>Links</h2>
 				<ul>
-					<li><a href="https://sheenaoc.com">Sheena's blog</a></li>
-					<li><a href="https://fosstodon.org/@sheena">Mastodon: @sheena@fosstodon.org</a></li>
-					<li><a href="https://twitter.com/sheena_oconnell">X/Twitter: @sheena_oconnell</a></li>
-					<li><a href="https://www.linkedin.com/in/sheena-o-connell-0bb72527/">LinkedIn</a></li>
+					<li class="fragment"><a href="https://sheenaoc.com">Sheena's blog</a></li>
+					<li class="fragment"><a href="https://fosstodon.org/@sheena">Mastodon: @sheena@fosstodon.org</a>
+					</li>
+					<li class="fragment"><a href="https://twitter.com/sheena_oconnell">X/Twitter: @sheena_oconnell</a>
+					</li>
+					<li class="fragment"><a href="https://www.linkedin.com/in/sheena-o-connell-0bb72527/">LinkedIn</a>
+					</li>
 				</ul>
 				<br />
 				To navigate this slide deck:
@@ -50,7 +53,6 @@
 
 				<section>
 
-					<!-- <img src="images/qr.png" style="position: absolute;"/> -->
 
 					<h2>
 						Hi, I'm <a href="https://www.linkedin.com/in/sheena-o-connell-0bb72527/"> Sheena </a>
@@ -62,18 +64,12 @@
 
 					<table>
 						<tr>
-							<td style="vertical-align: top">
+							<td style="vertical-align: middle">
 								<ul>
 									<li class="fragment">Coding since young teen</li>
 									<li class="fragment">Worked in a lot of startups</li>
 									<li class="fragment">
-										Most recently: 5 years as CTO of Umuzi
-										<ul>
-											<li class="fragment">Science of learning => Engineering of learning</li>
-											<li class="fragment">Building the stuff</li>
-											<li class="fragment">Human processes
-											</li>
-										</ul>
+										Spent the last 5 years in tech education
 									</li>
 								</ul>
 
@@ -88,29 +84,36 @@
 				</section>
 
 				<section>
+					<h2>Education work</h2>
+					<ul>
+						<li class="fragment">Training and mentoring learners</li>
+						<li class="fragment">Training and mentoring teachers</li>
+						<li class="fragment">Science of learning => Engineering of learning
+							<ul>
+								<li class="fragment">Building the stuff</li>
+								<li class="fragment">Human processes
+								</li>
+							</ul>
 
-					<h2>
-						And now?
-					</h2>
 
-					<!-- <span class="fragment">Still in tech-ed + ed-tech ;)</span><br /> -->
-
-					<span class="fragment">Building tools/systems to help tech educators with their trickiest
-						problems</span>
-
-
+						</li>
+					</ul>
 				</section>
 
+				<section>
+					<h3>Passionate about empowering those who empower others</h3>
+
+				</section>
 
 			</section>
 
 			<section>
-				<h2>How will this work</h2>
+				<h2>How will this work?</h2>
 
 				<ul>
-					<li>Start with a high level view of how everything fits together</li>
-					<li>You will come up with something you want to build</li>
-					<li>Very very practical</li>
+					<li class="fragment">Start with a high level view of how everything fits together</li>
+					<li class="fragment">You will come up with something you want to build! 🤓</li>
+					<li class="fragment">Largely self paced</li>
 				</ul>
 			</section>
 
@@ -120,27 +123,202 @@
 
 			<section>
 				<h2>What's in the box?</h2>
-				TODO
 			</section>
+
+			<section>
+
+				<section>
+					<img src="images/django-logo-positive.png" style="background-color: white; padding: 1em;" />
+				</section>
+
+				<section>
+					<h3>Django ==</h3>
+					<ul>
+						<li class="fragment">Framework for perfectionists with deadlines</li>
+						<li class="fragment">Rock solid</li>
+						<li class="fragment">But does it scale?</li>
+						<li class="fragment">Fantastic open source community</li>
+						<li class="fragment">ORM at the core</li>
+					</ul>
+				</section>
+
+				<section>
+					<h3>ORM ==</h3>
+					<ul>
+						<li class="fragment">Object Relational Mapper</li>
+						<li class="fragment">Use classes to represent database tables</li>
+						<li class="fragment">Use instance of class to represent row in table</li>
+					</ul>
+				</section>
+
+			</section>
+
+			<section>
+
+				<section>
+					<img src="images/htmx-logo.png" />
+				</section>
+
+				<section>
+					"htmx gives you access to AJAX, CSS Transitions, WebSockets and Server Sent Events directly in HTML,
+					using attributes, so
+					you can build modern user interfaces with the simplicity and power of hypertext"
+				</section>
+
+				<section>
+					<pre data-id="code-animation"><code class="hljs html" data-trim data-line-numbers>
+															<button hx-post="/clicked" hx-swap="outerHTML">
+																Click Me
+															</button>
+															</code></pre>
+				</section>
+
+				<section>
+
+					<pre data-id="code-animation"><code class="hljs html" data-trim data-line-numbers>
+									
+															<form 
+															hx-post="/action_add_new_todo" 
+															hx-target="#todo_items" 
+															hx-swap="beforeend">
+															
+																Title* <input type="text" name="title">
+															
+																<input type="submit" value="Add">
+															
+															</form>
+									
+									</code></pre>
+
+
+				</section>
+
+
+			</section>
+
+			<section>
+				<section>
+					<img src="images/alpine_long.svg" style="background-color: white;" />
+				</section>
+
+				<section>
+					<pre data-id="code-animation"><code class="hljs html" data-trim data-line-numbers>
+																<div x-data="{ open: false }">
+																	<button @click="open = true">Expand</button>
+																
+																	<span x-show="open">
+																		Content...
+																	</span>
+																</div>
+															</code></pre>
+				</section>
+			</section>
+
+			<section>
+				<section>
+					<img src="images/tailwindcss-logotype/tailwindcss-logotype/tailwindcss-logotype.svg"
+						style="background-color: white; padding: 1em;" />
+				</section>
+
+				<section>
+					<pre data-id="code-animation"><code class="hljs html" data-trim data-line-numbers>
+																<h1 class="text-3xl font-bold underline">
+																	Hello world!
+																</h1>
+															</code></pre>
+				</section>
+
+
+			</section>
+
+
+			<section>
+				<section>
+					<h2> To be clear</h2>
+					<ul>
+						<li class="fragment">HTMX is not a Python/Django thing</li>
+						<li class="fragment">AlpineJs is not a Python/Django thing</li>
+						<li class="fragment">Tailwind is not a Python/Django thing</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Watch this! It's awesome</h2>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/3GObi93tjZI?si=K-dGG80jq4eOiAIB"
+						title="YouTube video player" frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+						referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br />
+					DjangoCon 2022 | From React to htmx on a real-world SaaS product: we did it, and it's awesome!
+
+				</section>
+
+			</section>
+
+			<section>
+				<h2>Stack for SPA using Django backend</h2>
+				<img src="images/fullstack1.drawio.svg"
+					style="background-color: white; padding-left: 0.5em; padding-top: 0.5em;" height="400" />
+			</section>
+
+			<section>
+				<h2>HTMX based stack</h2>
+				<img src="images/fullstack2.drawio.svg"
+					style="background-color: white; padding-left: 0.5em; padding-top: 0.5em; padding-right: 0.5em;"
+					height="400" />
+			</section>
+
+			<section>
+				<section>
+					<h2>Testing</h2>
+					<span class="fragment">Standard unit testing insufficient</span><br />
+					<span class="fragment">(but you should still write some unit tests)</span>
+
+
+				</section>
+
+
+				<section>
+
+					<h2>Enter Playwright</h2>
+
+					<ul>
+						<li class="fragment">Enables reliable end-to-end testing for modern web apps</li>
+						<li class="fragment">Fire up a browser + interacts with the browser</li>
+						<li class="fragment">Useful test goodies - expect, trace, screenshot, etc</li>
+						<li class="fragment">Has uses beyond testing</li>
+					</ul>
+				</section>
+
+				<section>
+					<h2>Playwright versus ____</h2>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Ze62p97coaY?si=_uGGIofEJLcwdTTC"
+						title="YouTube video player" frameborder="0"
+						allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+						referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+					Keynote: Testing Modern Web Apps Like a Champion with Andrew Knight
+
+				</section>
+			</section>
+
 
 			<section>
 				<section>
 					<h2>CRUD</h2>
 
 					<ul>
-						<li>C = Create</li>
-						<li>R = Read</li>
-						<li>U = Update</li>
-						<li>D = Delete</li>
+						<li class="fragment">C = Create</li>
+						<li class="fragment">R = Read</li>
+						<li class="fragment">U = Update</li>
+						<li class="fragment">D = Delete</li>
 					</ul>
 				</section>
 
 				<section>
 					<ul>
-						<li>POST for Create</li>
-						<li>GET for Read</li>
-						<li>PUT for Update</li>
-						<li>DELETE for ___?</li>
+						<li class="fragment">POST for Create</li>
+						<li class="fragment">GET for Read</li>
+						<li class="fragment">PUT for Update</li>
+						<li class="fragment">DELETE for ___?</li>
 					</ul>
 				</section>
 
@@ -157,8 +335,9 @@
 
 
 			<section>
-				<h2>The end</h2>
-				<img src="qr.png" height="500" />
+				<h2>TUTORIAL</h2>
+				<img src="images/qr_codes/tutorial.png" height="500" />
+
 			</section>
 
 		</div>

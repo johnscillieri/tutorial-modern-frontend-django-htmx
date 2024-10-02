@@ -1,3 +1,27 @@
+"""
+Why pytest 
+liveserver fixture
+page fixture
+
+pytest 
+pytest --headed 
+pytest --headed --slowmo=2000 
+pytest --headed --slowmo=1000 --browser firefox
+pytest --headed --slowmo=1000 --browser firefox --browser chromium
+
+pytest --tracing=on --browser firefox --browser chromium
+playwright show-trace test-results/todo-tests-test-todos-py-test-add-new-item-chromium/trace.zip
+
+vscode debugging
+breakpoint()
+
+playwright codegen http://127.0.0.1:8181/
+pytest  todo/tests/test_todos.py -k test_form_clears_upon_submission
+hx-on::after-request="this.reset()" 
+
+playwright --help 
+"""
+
 from playwright.sync_api import Page, expect
 from django.urls import reverse
 from todos import models
