@@ -15,12 +15,6 @@ If you find this useful, or would like to help us build the skills of educators,
 
 Find out more [here](https://guildofeducators.com/support_us)
 
-## Tell us who you are please
-
-We want to get some stats about the impact we are having. It would be very helpful if you filled in [this form](https://airtable.com/appTcQfUvFjzl4gPd/shrVOc4eKpsSqB7Ht). 
-
-We take privacy seriously and will not share your information with anyone or spam you. 
-
 ## Tutorial time!
 
 Once upon a time, if you wanted to build a modern frontend web experience using a Python based web framework, an obvious choice was to expose a bunch of APIs and build your frontend in something else entirely (eg React).
