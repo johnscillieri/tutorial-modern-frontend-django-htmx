@@ -1,4 +1,0 @@
-- Template inheritance 
-- form processing 
-- crispy forms 
-- template partials 
