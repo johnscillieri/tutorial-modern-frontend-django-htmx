@@ -6,7 +6,7 @@ To do this we'll be learning about templates.
 
 ## Views.py
 
-Update your `views.py` file so it looks like this:
+Update your `todos/views.py` file so it looks like this:
 
 ```
 from django.shortcuts import render
@@ -19,7 +19,11 @@ def index(request):
     return render(request, "todos/index.html")
 ```
 
-Now this part is weird. Take a moment to prepare yourself emotionally. Django has an unusual way of organising templates.
+Now if you refresh your page, you'll get an error message.
+
+![Screenshot](images/template-error.png)
+
+Now this part is weird. Django has an unusual way of organising templates.
 
 Inside your app create a directory called `templates`. Then inside the `templates` directory make a new directory with the name of your app. Then inside that directory create a file called `index.html`
 
@@ -39,7 +43,7 @@ todos <<< this is your app name
 │   └── views.py
 ```
 
-`index.html` should look something like this:
+Edit `index.html` so it looks like this: 
 
 ```
 <html lang="en">
@@ -57,6 +61,14 @@ todos <<< this is your app name
 
 </html>
 ```
+
+If you refresh your web page, you will now see:
+
+![Screenshot](images/index-v1.png)
+
+If you are still getting a template error then kill your `runserver` and restart, then try again.
+
+## Tests: GREEN 
 
 Now if you run your tests using `pytest` you'll see that the test passed. 
 
