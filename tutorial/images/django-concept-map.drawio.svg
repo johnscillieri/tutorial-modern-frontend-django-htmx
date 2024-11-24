@@ -1,0 +1,465 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1851px" height="791px" viewBox="-0.5 -0.5 1851 791" content="&lt;mxfile&gt;&lt;diagram id=&quot;SSQKjasaCsZYozzqRHHR&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs/>
+    <g>
+        <path d="M 1100 630 L 1723.63 630" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1728.88 630 L 1721.88 633.5 L 1723.63 630 L 1721.88 626.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="980" y="600" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 630px; margin-left: 981px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                forms.py
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1040" y="634" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    forms.py
+                </text>
+            </switch>
+        </g>
+        <path d="M 1100 210 L 1784.46 596.87" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1789.03 599.45 L 1781.21 599.05 L 1784.46 596.87 L 1784.65 592.96 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1040 210 L 1040 593.63" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1040 598.88 L 1036.5 591.88 L 1040 593.63 L 1043.5 591.88 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 980 210 L 375.37 596.57" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 370.94 599.4 L 374.95 592.68 L 375.37 596.57 L 378.72 598.58 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="980" y="150" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 180px; margin-left: 981px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                views.py
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1040" y="184" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    views.py
+                </text>
+            </switch>
+        </g>
+        <path d="M 362.86 600 L 271.47 216.19" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 270.26 211.09 L 275.29 217.09 L 271.47 216.19 L 268.48 218.71 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="310" y="600" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 630px; margin-left: 311px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                templates/
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="370" y="634" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    templates/
+                </text>
+            </switch>
+        </g>
+        <path d="M 330 180 L 973.63 180" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 978.88 180 L 971.88 183.5 L 973.63 180 L 971.88 176.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="210" y="150" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 180px; margin-left: 211px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                urls.py
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="270" y="184" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    urls.py
+                </text>
+            </switch>
+        </g>
+        <rect x="180" y="55" width="250" height="90" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 248px; height: 1px; padding-top: 100px; margin-left: 181px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                When a request comes in from the browser, then Django will look at the urls.py fille to figure out what view to call
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="305" y="104" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    When a request comes in from the browser,...
+                </text>
+            </switch>
+        </g>
+        <rect x="520" y="190" width="200" height="170" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 275px; margin-left: 521px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    So the urls.py file needs to "know" about the different views.
+                                    <br/>
+                                    <br/>
+                                    The views dont need to know about the urls.py file though. It's a bit of a "don't call me, I'll call you" kind of situation.
+                                    <br/>
+                                    <br/>
+                                    Pay attention to the direction of the arrow here. It shows that urls.py is "looking at" views.py
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="620" y="279" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    So the urls.py file needs to "kno...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="150" cy="105" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 105px; margin-left: 131px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="150" y="109" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    1
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="500" cy="210" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 210px; margin-left: 481px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                2
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="500" y="214" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <rect x="820" y="15" width="350" height="145" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 348px; height: 1px; padding-top: 88px; margin-left: 821px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    Views are perfectly normal Python functions that expect certain arguments. If a request comes in and Django figures out what view function to call, then it will call the function and pass in a request object
+                                    <br/>
+                                    <br/>
+                                    Note: You can also make `class` views instead of `function` views. But it's usually a good idea to keep things simple and use functions.
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="995" y="91" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Views are perfectly normal Python functions that expect ce...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="790" cy="65" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 65px; margin-left: 771px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                3
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="790" y="69" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    3
+                </text>
+            </switch>
+        </g>
+        <rect x="1340" y="230" width="440" height="140" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 438px; height: 1px; padding-top: 300px; margin-left: 1341px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    Views often need to interact with the database. For example you could have a view for creating new rows in a database table. In Django we don't typically interact with the database directly, we use models. So the views.py file will need to import what it needs from models.py
+                                    <br/>
+                                </font>
+                                <br/>
+                                <font color="#000000">
+                                    models.py has no reason to know about views.py. The models only care about interacting with the database and giving the database tables extra logic and functionality.
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1560" y="304" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Views often need to interact with the database. For example you could hav...
+                </text>
+            </switch>
+        </g>
+        <rect x="1730" y="600" width="120" height="60" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 630px; margin-left: 1731px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                models.py
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1790" y="634" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    models.py
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="1310" cy="290" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 290px; margin-left: 1291px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                4
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1310" y="294" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    4
+                </text>
+            </switch>
+        </g>
+        <rect x="1050" y="400" width="410" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 408px; height: 1px; padding-top: 480px; margin-left: 1051px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    Sometimes a view needs to render a form or process form input. For example, we use a form for creating TodoItems.
+                                    <br/>
+                                    <br/>
+                                    Forms are special classes that make this easy. A form class helps with input validation, keeping the database up to date, and rendering nice html.
+                                    <br/>
+                                    <br/>
+                                    Some views will need forms, but forms wont need views.
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1255" y="484" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Sometimes a view needs to render a form or process form input. For e...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="1080" cy="400" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 400px; margin-left: 1061px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                5
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1080" y="404" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    5
+                </text>
+            </switch>
+        </g>
+        <rect x="1210" y="660" width="280" height="130" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 278px; height: 1px; padding-top: 725px; margin-left: 1211px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                If a form is being used to Create or Update anything in the adtabase, then the form will need to know about the database model.
+                                <br/>
+                                <br/>
+                                Models dont need to know about forms, but forms often need to know about models.
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1350" y="729" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    If a form is being used to Create or Update an...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="1180" cy="725" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 725px; margin-left: 1161px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                6
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1180" y="729" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    6
+                </text>
+            </switch>
+        </g>
+        <rect x="520" y="530" width="340" height="150" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 338px; height: 1px; padding-top: 605px; margin-left: 521px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    Once a view has done all the clever stuff it needs to do, it's last job is to create an HTTP response. Usually this response will contain some HTML. This is where templates come in.
+                                    <br/>
+                                    <br/>
+                                    A view will fetch a template and then render it with the correct data.
+                                    <br/>
+                                    <br/>
+                                    If a template needs to render a form or something from the database, then it doesn't go and fetch that stuff. It's pretty dumb.
+                                    <br/>
+                                    <br/>
+                                    The view is responsible for feeding the template everything it needs through the context dictionary.
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="690" y="609" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Once a view has done all the clever stuff it needs to do...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="500" cy="560" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 560px; margin-left: 481px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                7
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="500" y="564" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    7
+                </text>
+            </switch>
+        </g>
+        <rect x="0" y="505" width="330" height="30" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 328px; height: 1px; padding-top: 520px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    Sometimes the rendered HTML will need to know about some urls. This happens if you want your frontend to submit a request (eg an htmx request) or link to a different page.
+                                    <br/>
+                                    <br/>
+                                    The template language allows you to make use of the url configuration from within your templates. The template doesn't directly import from urls.py or anything like that. If it needs to know a url then it can call a function to get what it needs
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="165" y="524" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Sometimes the rendered HTML will need to know about som...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="270" cy="410" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 410px; margin-left: 251px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                8
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="270" y="414" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    8
+                </text>
+            </switch>
+        </g>
+        <rect x="1270" y="0" width="340" height="110" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 338px; height: 1px; padding-top: 55px; margin-left: 1271px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    Finally, once the view has collected everything it needs, the rendered template is packaged in an HTTP response and sent to the browser
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1440" y="59" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Finally, once the view has collected everything it needs...
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="1240" cy="45" rx="20" ry="20" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 45px; margin-left: 1221px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                9
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1240" y="49" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    9
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
